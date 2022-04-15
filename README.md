@@ -1,1 +1,5 @@
-#Requirements
+# Requirements
+
+```bash
+pip install Pillow
+```
